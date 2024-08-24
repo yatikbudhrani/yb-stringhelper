@@ -1,0 +1,23 @@
+{
+  "name": "yb-stringhelper",
+  "version": "1.0.0",
+  "description": "The String Helper NPM package is a utility library that provides a set of functions to manipulate strings.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatikbudhrani/yb-stringhelper.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "yatikbudhrani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yatikbudhrani/yb-stringhelper/issues"
+  },
+  "homepage": "https://github.com/yatikbudhrani/yb-stringhelper#readme"
+}
